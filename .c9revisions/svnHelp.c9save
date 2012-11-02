@@ -1,0 +1,2 @@
+{"ts":1351825011369,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1351825134660,"patch":[[{"diffs":[[1,"Remove auth credentials that are cached.\n\nC:\\Users\\tnxo\\AppData\\Roaming\\Subversion\n\nRemove the auth folder."]],"start1":0,"start2":0,"length1":0,"length2":107}]],"length":107,"saved":false}
