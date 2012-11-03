@@ -1,4 +1,7 @@
 
+Explain Plan
+=============
+
 //Create the explain plan tables, this requiresd db2admin access, not sure how we can do this against our own schema.
 CALL SYSPROC.SYSINSTALLOBJECTS('EXPLAIN', 'C', CAST (NULL AS VARCHAR(128)), CAST (NULL AS VARCHAR(128)))
 
