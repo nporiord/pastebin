@@ -1,0 +1,1 @@
+Adding git proxy git config --global http.proxy http://USER:PASS@proxy.ais:8080
